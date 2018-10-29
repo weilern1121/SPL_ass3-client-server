@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yyarom/CLionProjects/Boost_Client_Final/include/connectionHandler.h
+string
+-
+iostream
+-
+boost/asio.hpp
+-
+
+/home/yyarom/CLionProjects/Boost_Client_Final/src/connectionHandler.cpp
+iostream
+-
+boost/asio/ip/tcp.hpp
+-
+../include/connectionHandler.h
+/home/yyarom/CLionProjects/Boost_Client_Final/include/connectionHandler.h
+
+/home/yyarom/CLionProjects/Boost_Client_Final/src/echoClient.cpp
+stdlib.h
+-
+iostream
+-
+boost/thread.hpp
+-
+../include/connectionHandler.h
+/home/yyarom/CLionProjects/Boost_Client_Final/include/connectionHandler.h
+

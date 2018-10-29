@@ -1,0 +1,3 @@
+/home/yyarom/CLionProjects/Boost_Client_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yyarom/CLionProjects/Boost_Client_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yyarom/CLionProjects/Boost_Client_Final/cmake-build-debug/CMakeFiles/Boost_Client_Final.dir
